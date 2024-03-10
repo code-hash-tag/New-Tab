@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100%;
+    background: url(marek-piwnicki-DMM86Vfr2zc-unsplash\ \(2\).jpg);
+}
+#ju{
+    position: relative;
+    top: 400px;
+    left: 50px;
+}
+#ji{
+    position: relative;
+    top: 320px;
+    left: 200px;
+}
+.search-bar{
+    position: relative;
+    right: 200px;
+    top: 500px;
+}
+#se{
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+}
+#text{
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width: 300px;
+    padding-left: 12px;
+}
